@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Rafentz
+## Bem-vindo(a) ao perfil do Rafael Dutra!
 
  <div>
    <a href="https://github.com/Rafentz">

@@ -1,7 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/Rafentz)
 
-![Design sem nome (2)](https://github.com/Rafentz/Rafentz/assets/128555499/6b6f07f5-3b5e-4ec9-829c-8801e7df456c)
-
+![Rafael GitHub](https://github.com/Rafentz/Rafentz/assets/128555499/923c3e46-699a-424b-a79f-86b32e795eed)
 
 <div align="center"> 
    <a href="https://instagram.com/rafael_dsena?igshid=ZGUzMzM3NWJiOQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

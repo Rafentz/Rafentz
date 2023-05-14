@@ -1,8 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/Rafentz)
- 
 
-
-## Para me conhecer melhor, me siga nas redes abaixo!
+![Design sem nome (1)](https://github.com/Rafentz/Rafentz/assets/128555499/fd7218b8-ed31-43e4-9da4-cd4b11c0739f)
 
 <div align="center"> 
    <a href="https://instagram.com/rafael_dsena?igshid=ZGUzMzM3NWJiOQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -35,4 +33,5 @@ conhecimentos.
  
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafentz&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafentz&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 

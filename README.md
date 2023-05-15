@@ -1,6 +1,6 @@
-![Profile views](https://gpvc.arturio.dev/Rafentz)
+![Profile views](https://gpvc.arturio.dev/rafaeldutradesena)
 
-![Rafael GitHub](https://github.com/Rafentz/Rafentz/assets/128555499/923c3e46-699a-424b-a79f-86b32e795eed)
+![Rafael GitHub](https://github.com/rafaeldutradesena/rafaeldutradesena/assets/128555499/f1ab46f9-809a-404e-b027-89a295b86069)
 
 <div align="center"> 
    <a href="https://instagram.com/rafael_dsena?igshid=ZGUzMzM3NWJiOQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -31,7 +31,7 @@ conhecimentos.
    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a
 </div>
  
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafentz&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafentz&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaeldutradesena&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldutradesena&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
